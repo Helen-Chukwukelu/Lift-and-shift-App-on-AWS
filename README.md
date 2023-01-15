@@ -2,7 +2,7 @@
 
 The "lift and shift" strategy, also known as "rehosting," is a method of migrating an existing on-premises application to the cloud, without making any significant changes to the application architecture or code. The goal of lift and shift is to move the application with minimal disruption and to take advantage of the scalability, availability, and cost benefits of the cloud.
 
-**So I will guide you on the steps to help you in this project**
+- **So I will guide you on the steps to help you in this project**
 
 # HOST A WEB APPLICATION ON AWS USING LIFT & SHIFT STRATEGY
 
@@ -75,5 +75,5 @@ You know our app sits on tomcat instance and our app need backend servers such a
 - Build autoscaling group for Tomcat instances
 
 
-# Full execution steps will be added Soon
+# Detailed execution steps will be added Soon!
 
